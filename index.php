@@ -6,7 +6,9 @@
     <title>Document</title>
 </head>
 <body>
-<?php
+    <h1>お試し</h1>
+    <p>
+    <?php
 
 echo "Hello World!";
 echo "こんにちは!!";
@@ -14,6 +16,8 @@ echo "こんばんは!!!";
 echo "元気ですか!!!？？？";
 echo "私は元気です!!!";
 
-?>
+    ?>
+    </p>
+
 </body>
 </html>
