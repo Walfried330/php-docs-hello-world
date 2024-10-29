@@ -6,7 +6,8 @@
     <title>Document</title>
 </head>
 <body>
-    <h1>お試し</h1>
+    <h1>IH15お試し</h1>
+
     <p>
     <?php
 
